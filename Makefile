@@ -1,5 +1,5 @@
 PKG_NAME := rich
-URL = https://files.pythonhosted.org/packages/8f/22/6241daa2750061ef726ff6b4ebdb9b774166f241997b256620cf20b14da5/rich-10.15.2.tar.gz
+URL = https://files.pythonhosted.org/packages/9e/bc/259729e8f8e2f4046284d14d6f3197b537e7c8ef5f1dafd384a7cddc70ef/rich-10.16.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
